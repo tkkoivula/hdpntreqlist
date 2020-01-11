@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <nodes>
+     <node ftnaddress="2:221/6" requestby="email">
+        <country>Finland</country>
+        <city>Ylojarvi</city>
+        <system>mxo</system>
+        <sysop>Tommi Koivula</sysop>
+        <note>Full fidoweb feed</note>
+        <email>sysop@fidonet.fi</email>
+        <protocol>binkp</protocol>
+        <ipaddress>mxo.fidonet.fi</ipaddress>
+        <areasfull>https://www.fidonet.fi/areas.lst</areasfull>
+     </node>
      <node ftnaddress="2:240/1120" requestby="email">
         <country>Germany</country>
         <city>Bad Ueberkingen</city>
